@@ -3,3 +3,7 @@ html {
     background-color: #555;
     font-family: "League Spartan", sans-serif;
 }
+
+#header {
+    font-size: 3em;
+}
