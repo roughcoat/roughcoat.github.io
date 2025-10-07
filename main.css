@@ -1,7 +1,12 @@
 html {
     color: AntiqueWhite;
-    background-color: #555;
+    background-color: #333;
     font-family: "League Spartan", sans-serif;
+}
+
+body {
+    width: 65%;
+    margin: auto;
 }
 
 #header {
