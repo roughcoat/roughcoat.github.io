@@ -9,6 +9,30 @@ body {
     margin: auto;
 }
 
+a, a:visited {
+    color: green;
+    color: #59FB2B;
+    color: #4EEC22;
+    color: #33B40E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:visited {
+    
+}
+
 #header {
     font-size: 3em;
+    font-weight: 100;
+    padding: 20px 0px;
+}
+
+.link_div {
+    font-size: 1.5em;
+    font-weight: 300;
+    margin-top: 3px;
 }
