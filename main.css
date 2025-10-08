@@ -19,6 +19,7 @@ a, a:visited {
 
 a:hover {
     color: orange;
+    color: #FF8209;
 }
 
 a:visited {
@@ -35,4 +36,8 @@ a:visited {
     font-size: 1.5em;
     font-weight: 300;
     margin-top: 3px;
+}
+
+.link_div a:hover {
+    font-weight: 400;
 }
